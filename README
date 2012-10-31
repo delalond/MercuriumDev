@@ -1,0 +1,14 @@
+/homec/deep/deep31/shared/mcxx/bin/mcc 
+
+source='io.c' object='io.o' libtool=no \
+	DEPDIR=.deps depmode=none /bin/sh ../../depcomp \
+	mcc -I/opt/parastation/mpi2-intel/include -L/opt/parastation/mpi2-intel/lib -L/opt/parastation/mpi2-intel/lib -Wl,-rpath,/opt/parastation/mpi2-intel/lib -lmpich -lopa -lpthread -L/opt/parastation/lib64 -Wl,-rpath,/opt/parastation/lib64 -Wl,--enable-new-dtags -lpscom -lrt 
+-DHAVE_CONFIG_H -I. -I../.. -I../../src/nrnoc -I../../src/oc -I../../src/parallel -I../../src/nrnjava -I../../src/nrncvode -I../../src/ivos -I../../src/sundials -I../../src/nrnpython  -DNRNUNIT=1   -D_OMPSS_ -c io.c
+Nanos++ prerun
+io.c:53: warning: unknown function 'diag' in call. Assuming 'int diag(int, int)'
+io.c:70: warning: unknown function 'file_stack_empty' in call. Assuming 'int file_stack_empty()'
+io.c:81: warning: function definition does not have decl-specifier, assuming 'int'
+io.c:118: warning: function definition does not have decl-specifier, assuming 'int'
+Signal handler called (signal=Segmentation fault). Exiting.
+Backtrace will be left at 'mcc_12146.backtrace.txt'
+

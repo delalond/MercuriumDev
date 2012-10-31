@@ -1,0 +1,141 @@
+Reading symbols from /homec/deep/deep31/shared/mcxx/bin/mcc...done.
+Attaching to program: /homec/deep/deep31/shared/mcxx/bin/mcc, process 12146
+Reading symbols from /homec/deep/deep31/shared/mcxx/bin/../lib/libmcxx-process.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/bin/../lib/libmcxx-process.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/bin/../lib/libmcxx.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/bin/../lib/libmcxx.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/bin/../lib/libtl.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/bin/../lib/libtl.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/bin/../lib/libcodegen-common.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/bin/../lib/libcodegen-common.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/bin/../lib/mcxx/libcodegen-cxx.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/bin/../lib/mcxx/libcodegen-cxx.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/bin/../lib/mcxx/libcodegen-fortran.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/bin/../lib/mcxx/libcodegen-fortran.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/bin/../lib/libmcxxtl.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/bin/../lib/libmcxxtl.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/bin/../lib/libmf03.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/bin/../lib/libmf03.so
+Reading symbols from /lib64/libdl.so.2...Missing separate debuginfo for /lib64/libdl.so.2
+Try: zypper install -C "debuginfo(build-id)=f607b21f9a513c99bba9539050c01236d19bf22b"
+(no debugging symbols found)...done.
+Loaded symbols for /lib64/libdl.so.2
+Reading symbols from /usr/local/gcc/gcc-4.7.1/lib64/libstdc++.so.6...done.
+Loaded symbols for /usr/local/gcc/gcc-4.7.1/lib64/libstdc++.so.6
+Reading symbols from /homec/deep/deep31/shared/mcxx/bin/../lib/libmcxx-extstruct.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/bin/../lib/libmcxx-extstruct.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/bin/../lib/libmcxx-utils.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/bin/../lib/libmcxx-utils.so
+Reading symbols from /homec/deep/deep31/shared/sqlite-3.6.16/lib/libsqlite3.so.0...done.
+Loaded symbols for /homec/deep/deep31/shared/sqlite-3.6.16/lib/libsqlite3.so.0
+Reading symbols from /lib64/libpthread.so.0...Missing separate debuginfo for /lib64/libpthread.so.0
+Try: zypper install -C "debuginfo(build-id)=341d7c595fd2db49df98b8a6ae2c319f46b43c5b"
+(no debugging symbols found)...done.
+[Thread debugging using libthread_db enabled]
+Loaded symbols for /lib64/libpthread.so.0
+Reading symbols from /usr/local/gcc/gcc-4.7.1/lib64/libquadmath.so.0...done.
+Loaded symbols for /usr/local/gcc/gcc-4.7.1/lib64/libquadmath.so.0
+Reading symbols from /lib64/libm.so.6...Missing separate debuginfo for /lib64/libm.so.6
+Try: zypper install -C "debuginfo(build-id)=4e9fa1a2c1141fc0123a142783efd044c40bdaaf"
+(no debugging symbols found)...done.
+Loaded symbols for /lib64/libm.so.6
+Reading symbols from /usr/local/gcc/gcc-4.7.1/lib64/libgcc_s.so.1...done.
+Loaded symbols for /usr/local/gcc/gcc-4.7.1/lib64/libgcc_s.so.1
+Reading symbols from /lib64/libc.so.6...Missing separate debuginfo for /lib64/libc.so.6
+Try: zypper install -C "debuginfo(build-id)=9e0264386fde8570b215fd4c32465fdda3c1c996"
+(no debugging symbols found)...done.
+Loaded symbols for /lib64/libc.so.6
+Reading symbols from /lib64/ld-linux-x86-64.so.2...Missing separate debuginfo for /lib64/ld-linux-x86-64.so.2
+Try: zypper install -C "debuginfo(build-id)=c1807b5762068e6c5f4a6a0ed48d9d4469965351"
+(no debugging symbols found)...done.
+Loaded symbols for /lib64/ld-linux-x86-64.so.2
+Reading symbols from /homec/deep/deep31/shared/mcxx/lib/mcxx/libtlomp-base.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/lib/mcxx/libtlomp-base.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/lib/mcxx/libtlomp-core.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/lib/mcxx/libtlomp-core.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/lib/mcxx/libtlvectorizer.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/lib/mcxx/libtlvectorizer.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/lib/libanalysis_singleton.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/lib/libanalysis_singleton.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/lib/libuse_def.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/lib/libuse_def.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/lib/libliveness.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/lib/libliveness.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/lib/libreaching_definitions.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/lib/libreaching_definitions.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/lib/libloops_analysis.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/lib/libloops_analysis.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/lib/libpcfg.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/lib/libpcfg.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/lib/libanalysis_utils.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/lib/libanalysis_utils.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/lib/mcxx/libtlnanos-version.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/lib/mcxx/libtlnanos-version.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/lib/mcxx/libtlnanox-lowering.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/lib/mcxx/libtlnanox-lowering.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/lib/libcodegen-vector.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/lib/libcodegen-vector.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/lib/mcxx/libcodegen-sse-module.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/lib/mcxx/libcodegen-sse-module.so
+Reading symbols from /homec/deep/deep31/shared/mcxx/lib/mcxx/libtlnanox-smp.so...done.
+Loaded symbols for /homec/deep/deep31/shared/mcxx/lib/mcxx/libtlnanox-smp.so
+0x00002b1942844134 in wait () from /lib64/libpthread.so.0
+#0  0x00002b1942844134 in wait () from /lib64/libpthread.so.0
+#1  0x0000000000411eff in run_gdb () at cxx-driver-utils.c:734
+#2  0x000000000040fbe3 in terminating_signal_handler (sig=11) at cxx-driver.c:4291
+#3  <signal handler called>
+#4  0x00002b194043e661 in ast_has_son (a=0x0, son=1) at cxx-ast.c:120
+#5  0x00002b194043e87b in ast_get_child (a=0x0, num_child=1) at cxx-ast.c:204
+#6  0x00002b1940644ac4 in build_scope_kr_parameter_declaration (function_entry=0x131fb10, kr_parameter_declaration=0x68df10, kr_parameters=0x68df10, 
+    decl_context=..., nodecl_output=0x7fff30572a70) at cxx-buildscope.c:10272
+#7  0x00002b1940646cc7 in build_scope_function_definition (a=0xd2d400, previous_symbol=0x0, decl_context=..., is_template=0 '\000', 
+    is_explicit_instantiation=0 '\000', nodecl_output=0x7fff30572a70, declared_symbols=0x0, gather_decl_spec_list=0x0) at cxx-buildscope.c:10844
+#8  0x00002b1940625d2b in build_scope_declaration (a=0xd2d400, decl_context=..., nodecl_output=0x7fff30572a70, declared_symbols=0x0, gather_decl_spec_list=0x0)
+    at cxx-buildscope.c:673
+#9  0x00002b19406258ec in build_scope_declaration_sequence (list=0xd86de0, decl_context=..., nodecl_output_list=0x7fff30572af0) at cxx-buildscope.c:611
+#10 0x00002b19406249e7 in build_scope_translation_unit (translation_unit=0x62f5f0) at cxx-buildscope.c:380
+#11 0x000000000040cfba in semantic_analysis (translation_unit=0x62f5f0, parsed_filename=0x6766a0 "/tmp/mcc_4w2XCM") at cxx-driver.c:3055
+#12 0x000000000040c748 in compile_every_translation_unit_aux_ (num_translation_units=1, translation_units=0x62f6d0) at cxx-driver.c:2790
+#13 0x000000000040cbc3 in compile_every_translation_unit () at cxx-driver.c:2926
+#14 0x0000000000407ded in main (argc=28, argv=0x7fff30572e88) at cxx-driver.c:559
+
+Thread 1 (Thread 0x2b1943455520 (LWP 12146)):
+#0  0x00002b1942844134 in wait () from /lib64/libpthread.so.0
+No symbol table info available.
+#1  0x0000000000411eff in run_gdb () at cxx-driver-utils.c:734
+        wait_result = 0
+        son = 12163
+#2  0x000000000040fbe3 in terminating_signal_handler (sig=11) at cxx-driver.c:4291
+No locals.
+#3  <signal handler called>
+No symbol table info available.
+#4  0x00002b194043e661 in ast_has_son (a=0x0, son=1) at cxx-ast.c:120
+No locals.
+#5  0x00002b194043e87b in ast_get_child (a=0x0, num_child=1) at cxx-ast.c:204
+No locals.
+#6  0x00002b1940644ac4 in build_scope_kr_parameter_declaration (function_entry=0x131fb10, kr_parameter_declaration=0x68df10, kr_parameters=0x68df10, 
+    decl_context=..., nodecl_output=0x7fff30572a70) at cxx-buildscope.c:10272
+        first_init_declarator = 0xd29d40
+        simple_decl = 0xd29e80
+        first_declarator = 0x0
+        simple_type_info = 0x68df10
+        nodecl_decl_spec = {tree = 0x0}
+        init_declarator_it = 0x0
+        decl_spec_seq = 0xd29b60
+        init_declarator_list = 0xd29e00
+        gather_info = {no_declarators = 0 '\000', parameter_declaration = 0 '\000', is_template = 0 '\000', is_explicit_instantiation = 0 '\000', is_auto = 0 '\000', 
+          is_register = 0 '\000', is_static = 0 '\000', is_extern = 0 '\000', is_mutable = 0 '\000', is_thread = 0 '\000', is_friend = 0 '\000', 
+          is_typedef = 0 '\000', is_signed = 0 '\000', is_unsigned = 0 '\000', is_short = 0 '\000', is_long = 0 '\000', is_const = 0 '\000', is_volatile = 0 '\000', 
+          is_restrict = 0 '\000', is_inline = 0 '\000', is_virtual = 0 '\000', is_explicit = 0 '\000', is_complex = 0 '\000', is_overriden_type = 0 '\000', 
+          emit_always = 0 '\000', is_transparent_union = 0 '\000', is_cxx_new_declarator = 0 '\000', allow_class_template_names = 0 '\000', defined_type = 0x0, 
+          mode_type = 0x0, any_exception = 0 '\000', num_exceptions = 0, exceptions = 0x0, vector_size = 0, is_vector = 0 '\000', num_parameters = 0, 
+          arguments_info = {{entry = 0x0, argument = {tree = 0x0}, context = {decl_flags = DF_NONE, namespace_scope = 0x0, global_scope = 0x0, block_scope = 0x0, 
+                template_parameters = 0x0, class_scope = 0x0, function_scope = 0x0, prototype_scope = 0x0, implicit_info = 0x0, 
+                current_scope = 0x0}} <repeats 256 times>}, num_vla_dimension_symbols = 0, vla_dimension_symbols = 0x0, num_gcc_attributes = 0, gcc_attributes = {{
+              attribute_name = 0x0, expression_list = {tree = 0x0}} <repeats 256 times>}, upc = {is_shared = 0 '\000', shared_layout = 0x0, is_relaxed = 0 '\000', 
+            is_strict = 0 '\000'}, cuda = {is_global = 0 '\000', is_device = 0 '\000', is_host = 0 '\000', is_shared = 0 '\000', is_constant = 0 '\000'}, 
+          current_access = AS_UNKNOWN}
+        iter = 0xd2d400
+        __FUNCTION__ = "build_scope_kr_parameter_declaration"
+        real_num_parameters = 0
+        num_parameters = 0
